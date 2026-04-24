@@ -676,11 +676,11 @@ return (
         <div style={{display:"flex",alignItems:"center",gap:6,padding:"6px 14px",background:"rgba(34,197,94,.12)",border:"1px solid rgba(34,197,94,.25)",borderRadius:20,fontSize:13,color:T.green,whiteSpace:"nowrap"}}>
           <div style={{width:7,height:7,borderRadius:"50%",background:T.green,animation:"pulse 1.5s infinite"}}/> Market is Open
         </div>
-        <div style={{flex:1,minWidth:0,display:"flex",alignItems:"center",gap:8,background:T.card,border:"1px solid "+T.cardBorder,borderRadius:20,padding:"7px 12px",overflow:"hidden"}}>
-          <span style={{color:T.textMuted,fontSize:14}}>🔍</span>
-          <input placeholder="Search anything..." style={{background:"transparent",border:"none",outline:"none",color:T.text,fontFamily:"'IBM Plex Mono',monospace",fontSize:13,flex:1,minWidth:0}}/>
-        </div>
-        <button className="desktop-only" style={{background:"none",border:"none",color:T.textSec,fontSize:20,cursor:"pointer"}}>☆</button>
+
+
+
+
+
         <button className="desktop-only" style={{background:"none",border:"none",color:T.textSec,fontSize:20,cursor:"pointer"}}>🔔</button>
         {/* Theme picker */}
         <div id="tp" style={{position:"relative"}}>
