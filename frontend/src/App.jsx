@@ -359,6 +359,8 @@ var [appLoaded,setAppLoaded]=useState(false);
 var [loadPct,setLoadPct]=useState(0);
 var [loadIdx,setLoadIdx]=useState(0);
 var [showNews,setShowNews]=useState(false);
+  var [showMarket,setShowMarket]=useState(false);
+  var [top100,setTop100]=useState([]);
 var [newsItems,setNewsItems]=useState([]);
 var [btc,setBtc]=useState({price:null,change24h:null,mcap:null,volume:null,high24h:null,low24h:null,dominance:null,blockHeight:null,hashrate:null,fearGreed:null,mempoolSize:null,txCount:null,difficulty:null,activeAddresses:null,circulatingSupply:null,ethPrice:null,ethChange:null,bnbPrice:null,bnbChange:null,solPrice:null,solChange:null});
 var [dataStatus,setDataStatus]=useState("loading");
@@ -368,6 +370,12 @@ var [sparks,setSparks]=useState({});
 var [fgSpark]=useState(function(){return genSparkline(50,40,0.04);});
 
 var T=THEMES[themeName]||THEMES["Dark Neon"];
+
+  function scrollTo(id) {
+    var el = document.getElementById(id);
+    if (el) el.scrollIntoView({ behavior: "smooth", block: "start" });
+  }
+
 
 // Mobile detection
 useEffect(function(){
@@ -537,8 +545,8 @@ return (
 <style>{"@import url(‘https://fonts.googleapis.com/css2?family=Orbitron:wght@400;700;900&family=IBM+Plex+Mono:wght@400;500;600;700&display=swap’);*{box-sizing:border-box;margin:0;padding:0}html,body{overflow:hidden;max-width:100vw}::-webkit-scrollbar{width:4px}::-webkit-scrollbar-thumb{background:"+T.accent+"44;border-radius:4px}"+CSS}</style>
 
   {/* NEWS PAGE OVERLAY */}
-  {showNews&&<NewsPage T={T} onBack={function(){setShowNews(false);}} newsItems={newsItems}/>}
-
+      {showMarket&&<MarketPage T={T} onBack={function(){setShowMarket(false);}} top100={top100}/>}
+      {showNews&&<NewsPage T={T} onBack={function(){setShowNews(false);}} newsItems={newsItems}/>}
   {/* LOADER */}
   {!appLoaded&&(
     <div style={{position:"fixed",inset:0,zIndex:9999,background:"#060612",display:"flex",flexDirection:"column",alignItems:"center",justifyContent:"center",gap:36}}>
@@ -614,12 +622,19 @@ return (
       <nav style={{flex:1,padding:"12px 8px",display:"flex",flexDirection:"column",gap:3,overflowY:"auto"}}>
         {NAV_ITEMS.map(function(item){
           var active=activePage===item.label;
-          var isNews=item.label==="News";
+
           return (
             <div key={item.label} className="ni"
               onClick={function(){
                 setActivePage(item.label);
-                if(isNews) setShowNews(true);
+              if(item.label==="News") setShowNews(true);
+              else if(item.label==="Market") setShowMarket(true);
+              else if(item.label==="Halving") scrollTo("section-halving");
+              else if(item.label==="Fear & Greed") scrollTo("section-halving");
+              else if(item.label==="Charts") scrollTo("section-market");
+              else if(item.label==="On-Chain") scrollTo("section-market");
+              else if(item.label==="Heatmap") window.open("https://coinmarketcap.com/cryptocurrency-category/","_blank");
+              else if(item.label==="Dashboard") scrollTo("section-halving");
               }}
               style={{display:"flex",alignItems:"center",gap:10,padding:"10px 10px",borderRadius:8,background:active?T.navActive:"transparent",borderLeft:active?"3px solid "+T.navActiveBorder:"3px solid transparent",color:active?T.text:T.textSec,whiteSpace:"nowrap"}}>
               <span style={{fontSize:16,flexShrink:0,width:22,textAlign:"center"}}>{item.icon}</span>
@@ -661,7 +676,7 @@ return (
         <div style={{display:"flex",alignItems:"center",gap:6,padding:"6px 14px",background:"rgba(34,197,94,.12)",border:"1px solid rgba(34,197,94,.25)",borderRadius:20,fontSize:13,color:T.green,whiteSpace:"nowrap"}}>
           <div style={{width:7,height:7,borderRadius:"50%",background:T.green,animation:"pulse 1.5s infinite"}}/> Market is Open
         </div>
-        <div style={{flex:1,display:"flex",alignItems:"center",gap:8,background:T.card,border:"1px solid "+T.cardBorder,borderRadius:20,padding:"7px 16px"}}>
+        <div style={{flex:1,minWidth:0,display:"flex",alignItems:"center",gap:8,background:T.card,border:"1px solid "+T.cardBorder,borderRadius:20,padding:"7px 12px",overflow:"hidden"}}>
           <span style={{color:T.textMuted,fontSize:14}}>🔍</span>
           <input placeholder="Search anything..." style={{background:"transparent",border:"none",outline:"none",color:T.text,fontFamily:"'IBM Plex Mono',monospace",fontSize:13,flex:1,minWidth:0}}/>
         </div>
@@ -708,7 +723,7 @@ return (
         )}
 
         {/* ROW 1 */}
-        <div className="row1-grid" style={{display:"grid",gridTemplateColumns:"220px 1fr 290px",gap:12,marginBottom:12}}>
+        <div id="section-halving" className="row1-grid" style={{display:"grid",gridTemplateColumns:"220px 1fr 290px",gap:12,marginBottom:12}}>
 
           {/* Supply Ring */}
           <div className={"ch"+(T.liquidGlass?" lg-shine lg-refract":"")} style={cardS({padding:"16px",display:"flex",flexDirection:"column",alignItems:"center",justifyContent:"center",gap:8,position:"relative",overflow:"hidden",minHeight:268})}>
@@ -769,7 +784,7 @@ return (
         </div>
 
         {/* ROW 2: Price Cards */}
-        <div className="row2-grid" style={{display:"grid",gridTemplateColumns:"repeat(5,1fr)",gap:12,marginBottom:12}}>
+        <div id="section-price" className="row2-grid" style={{display:"grid",gridTemplateColumns:"repeat(5,1fr)",gap:12,marginBottom:12}}>
           {priceCards.map(function(item,i){
             return (
               <div key={i} className={"ch"+(T.liquidGlass?" lg-refract":"")} style={cardS({padding:"16px",display:"flex",flexDirection:"column",gap:7})}>
@@ -790,7 +805,7 @@ return (
         </div>
 
         {/* ROW 3 */}
-        <div className="row3-grid" style={{display:"grid",gridTemplateColumns:"1fr 1.4fr 290px",gap:12}}>
+        <div id="section-market" className="row3-grid" style={{display:"grid",gridTemplateColumns:"1fr 1.4fr 290px",gap:12}}>
 
           {/* Market Table */}
           <div style={cardS({padding:"18px",display:"flex",flexDirection:"column",gap:12})}>
@@ -818,7 +833,7 @@ return (
                 </div>
               );
             })}
-            <button style={{width:"100%",padding:"9px",background:T.card,border:"1px solid "+T.cardBorder,borderRadius:8,color:T.textSec,fontSize:13,cursor:"pointer",fontFamily:"'IBM Plex Mono',monospace",transition:"border-color .2s"}}
+            <button onClick={function(){setShowMarket(true);}} style={{width:"100%",padding:"9px",background:T.card,border:"1px solid "+T.cardBorder,borderRadius:8,color:T.textSec,fontSize:13,cursor:"pointer",fontFamily:"'IBM Plex Mono',monospace",transition:"border-color .2s"}}
               onMouseEnter={function(e){e.currentTarget.style.borderColor=T.accent;}}
               onMouseLeave={function(e){e.currentTarget.style.borderColor=T.cardBorder;}}>
               View All Markets
@@ -859,7 +874,7 @@ return (
 
           {/* On-Chain */}
           <div style={cardS({padding:"18px",display:"flex",flexDirection:"column",gap:12})}>
-            <div style={{fontSize:12,letterSpacing:"0.18em",color:T.textMuted,textTransform:"uppercase"}}>On-Chain Metrics</div>
+            <div style={{fontSize:12,letterSpacing:"0.18em",color:T.textMuted,textTransform:"uppercase"}}>BTC On-Chain Metrics</div>
             {onChain.map(function(item,i){
               return (
                 <div key={i} style={{display:"flex",alignItems:"center",justifyContent:"space-between",padding:"8px 0",borderBottom:i<onChain.length-1?"1px solid "+T.cardBorder+"55":"none"}}>
@@ -921,4 +936,121 @@ return (
 </div>
 
 );
+}
+
+// ── MARKET PAGE - TOP 100 ─────────────────────────────────────────────────
+function MarketPage(props) {
+  var T=props.T; var onBack=props.onBack;
+  var [coins,setCoins]=useState(props.top100||[]);
+  var [search,setSearch]=useState("");
+  var [sortBy,setSortBy]=useState("rank");
+  var [sortDir,setSortDir]=useState("asc");
+  var [loading,setLoading]=useState(coins.length===0);
+  var [page,setPage]=useState(1);
+  var PER_PAGE=50;
+
+  useEffect(function(){
+    if(props.top100&&props.top100.length>0){setCoins(props.top100);setLoading(false);}
+    else{
+      fetch("/api/top100").then(function(r){return r.json();}).then(function(d){setCoins(d);setLoading(false);}).catch(function(){setLoading(false);});
+    }
+  },[props.top100]);
+
+  function fmtP(n){return n?"$"+n.toLocaleString("en-US",{minimumFractionDigits:2,maximumFractionDigits:2}):"—";}
+  function fmtU(n){if(!n)return "—";if(n>=1e12)return "$"+(n/1e12).toFixed(2)+"T";if(n>=1e9)return "$"+(n/1e9).toFixed(2)+"B";if(n>=1e6)return "$"+(n/1e6).toFixed(2)+"M";return "$"+n.toLocaleString();}
+  function chC(c){return (c||0)>=0?T.green:T.red;}
+
+  var filtered=coins.filter(function(c){
+    return c.name.toLowerCase().includes(search.toLowerCase())||c.symbol.toLowerCase().includes(search.toLowerCase());
+  });
+
+  var totalPages=Math.ceil(filtered.length/PER_PAGE);
+  filtered=filtered.sort(function(a,b){
+    var val=sortBy==="rank"?(a.rank-b.rank):sortBy==="price"?(b.price-a.price):sortBy==="change"?(b.change24h-a.change24h):sortBy==="mcap"?(b.mcap-a.mcap):(b.volume-a.volume);
+    return sortDir==="asc"?val:-val;
+  });
+
+  function SortBtn(props2){
+    var active=sortBy===props2.col;
+    return(
+      <span onClick={function(){if(active)setSortDir(d=>d==="asc"?"desc":"asc");else{setSortBy(props2.col);setSortDir("asc");}}}
+        style={{cursor:"pointer",color:active?T.accent:T.textMuted,userSelect:"none",fontSize:11}}>
+        {props2.label}{active?(sortDir==="asc"?" ↑":" ↓"):""}
+      </span>
+    );
+  }
+
+  return(
+    <div style={{position:"fixed",inset:0,zIndex:500,background:T.bg,color:T.text,fontFamily:"'IBM Plex Mono',monospace",display:"flex",flexDirection:"column",overflow:"hidden"}}>
+      {/* Header */}
+      <div style={{height:58,flexShrink:0,background:T.sidebar,borderBottom:"1px solid "+T.cardBorder,display:"flex",alignItems:"center",padding:"0 16px",gap:12}}>
+        <button onClick={onBack} style={{padding:"6px 14px",background:T.card,border:"1px solid "+T.cardBorder,borderRadius:8,color:T.text,cursor:"pointer",fontSize:13,fontFamily:"'IBM Plex Mono',monospace"}}>← Back</button>
+        <div style={{display:"flex",alignItems:"center",gap:8}}>
+          <div style={{width:8,height:8,borderRadius:"50%",background:T.accent}}/>
+          <span style={{fontFamily:"'Orbitron',monospace",fontSize:14,fontWeight:700}}>Market <span style={{color:T.accent}}>Overview</span></span>
+        </div>
+        <span style={{fontSize:12,color:T.textMuted,marginLeft:"auto"}}>{filtered.length} coins</span>
+      </div>
+      {/* Search */}
+      <div style={{padding:"12px 16px",background:T.sidebar,borderBottom:"1px solid "+T.cardBorder,flexShrink:0}}>
+        <div style={{display:"flex",alignItems:"center",gap:8,background:T.card,border:"1px solid "+T.cardBorder,borderRadius:10,padding:"8px 14px"}}>
+          <span style={{color:T.textMuted}}>🔍</span>
+          <input placeholder="Search coin name or symbol..." value={search} onChange={function(e){setSearch(e.target.value);}}
+            style={{background:"transparent",border:"none",outline:"none",color:T.text,fontFamily:"'IBM Plex Mono',monospace",fontSize:13,flex:1}}/>
+          {search&&<span onClick={function(){setSearch("");}} style={{color:T.textMuted,cursor:"pointer",fontSize:16}}>✕</span>}
+        </div>
+      </div>
+      {/* Table */}
+      <div style={{flex:1,overflowY:"auto",overflowX:"auto"}}>
+        {loading?(
+          <div style={{display:"flex",alignItems:"center",justifyContent:"center",height:"100%",fontSize:14,color:T.textMuted}}>Loading top 100 coins...</div>
+        ):(
+          <table style={{width:"100%",borderCollapse:"collapse",fontSize:13,minWidth:600}}>
+            <thead>
+              <tr style={{background:T.sidebar,position:"sticky",top:0,zIndex:10}}>
+                <th style={{padding:"10px 16px",textAlign:"left",color:T.textMuted,fontWeight:600,borderBottom:"1px solid "+T.cardBorder,whiteSpace:"nowrap"}}><SortBtn col="rank" label="#"/></th>
+                <th style={{padding:"10px 16px",textAlign:"left",color:T.textMuted,fontWeight:600,borderBottom:"1px solid "+T.cardBorder}}>Name</th>
+                <th style={{padding:"10px 16px",textAlign:"right",color:T.textMuted,fontWeight:600,borderBottom:"1px solid "+T.cardBorder,whiteSpace:"nowrap"}}><SortBtn col="price" label="Price"/></th>
+                <th style={{padding:"10px 16px",textAlign:"right",color:T.textMuted,fontWeight:600,borderBottom:"1px solid "+T.cardBorder,whiteSpace:"nowrap"}}><SortBtn col="change" label="24h %"/></th>
+                <th style={{padding:"10px 16px",textAlign:"right",color:T.textMuted,fontWeight:600,borderBottom:"1px solid "+T.cardBorder,whiteSpace:"nowrap"}}><SortBtn col="mcap" label="Mkt Cap"/></th>
+                <th style={{padding:"10px 16px",textAlign:"right",color:T.textMuted,fontWeight:600,borderBottom:"1px solid "+T.cardBorder,whiteSpace:"nowrap"}}><SortBtn col="volume" label="Volume"/></th>
+              </tr>
+            </thead>
+            <tbody>
+              {filtered.slice((page-1)*PER_PAGE, page*PER_PAGE).map(function(c,i){
+                return(
+                  <tr key={i} style={{borderBottom:"1px solid "+T.cardBorder+"44",transition:"background .15s"}}
+                    onMouseEnter={function(e){e.currentTarget.style.background=T.card;}}
+                    onMouseLeave={function(e){e.currentTarget.style.background="transparent";}}>
+                    <td style={{padding:"10px 16px",color:T.textMuted,fontSize:12}}>{c.rank}</td>
+                    <td style={{padding:"10px 16px"}}>
+                      <div style={{display:"flex",alignItems:"center",gap:8}}>
+                        <img src={c.image} alt={c.symbol} width="24" height="24" style={{borderRadius:"50%"}} onError={function(e){e.target.style.display="none";}}/>
+                        <div>
+                          <div style={{fontWeight:600,color:T.text,fontSize:13}}>{c.name}</div>
+                          <div style={{fontSize:10,color:T.textMuted}}>{c.symbol}</div>
+                        </div>
+                      </div>
+                    </td>
+                    <td style={{padding:"10px 16px",textAlign:"right",fontFamily:"'Orbitron',monospace",fontSize:12,color:T.text}}>{fmtP(c.price)}</td>
+                    <td style={{padding:"10px 16px",textAlign:"right",fontSize:12,color:chC(c.change24h),fontWeight:600}}>{c.change24h!=null?(c.change24h>=0?"+":"")+c.change24h.toFixed(2)+"%":"—"}</td>
+                    <td style={{padding:"10px 16px",textAlign:"right",fontSize:12,color:T.textSec}}>{fmtU(c.mcap)}</td>
+                    <td style={{padding:"10px 16px",textAlign:"right",fontSize:12,color:T.textSec}}>{fmtU(c.volume)}</td>
+                  </tr>
+                );
+              })}
+            </tbody>
+          </table>
+        )}
+      </div>
+        <div style={{display:"flex",alignItems:"center",justifyContent:"center",gap:10,padding:"14px 16px",borderTop:"1px solid "+T.cardBorder,background:T.sidebar,flexShrink:0}}>
+          <button onClick={function(){setPage(1);}} disabled={page===1} style={{padding:"5px 10px",borderRadius:6,background:T.card,border:"1px solid "+T.cardBorder,color:page===1?T.textMuted:T.text,cursor:page===1?"default":"pointer",fontSize:12}}>««</button>
+          <button onClick={function(){setPage(function(p){return Math.max(1,p-1);});}} disabled={page===1} style={{padding:"5px 12px",borderRadius:6,background:T.card,border:"1px solid "+T.cardBorder,color:page===1?T.textMuted:T.text,cursor:page===1?"default":"pointer",fontSize:12}}>‹ Prev</button>
+          <span style={{fontFamily:"'Orbitron',monospace",fontSize:13,color:T.text}}><span style={{color:T.accent}}>{page}</span><span style={{color:T.textMuted}}> / {totalPages}</span></span>
+          <button onClick={function(){setPage(function(p){return Math.min(totalPages,p+1);});}} disabled={page===totalPages} style={{padding:"5px 12px",borderRadius:6,background:T.card,border:"1px solid "+T.cardBorder,color:page===totalPages?T.textMuted:T.text,cursor:page===totalPages?"default":"pointer",fontSize:12}}>Next ›</button>
+          <button onClick={function(){setPage(totalPages);}} disabled={page===totalPages} style={{padding:"5px 10px",borderRadius:6,background:T.card,border:"1px solid "+T.cardBorder,color:page===totalPages?T.textMuted:T.text,cursor:page===totalPages?"default":"pointer",fontSize:12}}>»»</button>
+          <span style={{fontSize:11,color:T.textMuted}}>{filtered.length} coins</span>
+        </div>
+    </div>
+  );
 }
