@@ -855,21 +855,14 @@ return (
                 })}
               </div>
             </div>
-            <ResponsiveContainer width="100%" height={226}>
-              <LineChart data={chartData} margin={{top:5,right:5,bottom:5,left:0}}>
-                <defs>
-                  <linearGradient id="cg" x1="0" y1="0" x2="0" y2="1">
-                    <stop offset="5%" stopColor={T.chartLine} stopOpacity={0.3}/>
-                    <stop offset="95%" stopColor={T.chartLine} stopOpacity={0}/>
-                  </linearGradient>
-                </defs>
-                <CartesianGrid strokeDasharray="3 3" stroke={T.cardBorder} vertical={false}/>
-                <XAxis dataKey="t" tick={{fill:T.textMuted,fontSize:11}} tickLine={false} axisLine={false} interval="preserveStartEnd"/>
-                <YAxis tick={{fill:T.textMuted,fontSize:11}} tickLine={false} axisLine={false} tickFormatter={function(v){return "$"+(v/1000).toFixed(0)+"K";}} domain={["auto","auto"]} width={44}/>
-                <Tooltip contentStyle={{background:T.sidebar,border:"1px solid "+T.cardBorder,borderRadius:8,fontSize:12,fontFamily:"'IBM Plex Mono',monospace"}} labelStyle={{color:T.textMuted}} itemStyle={{color:T.chartLine}} formatter={function(v){return["$"+v.toLocaleString(),"BTC"];}}/>
-                <Line type="monotone" dataKey="p" stroke={T.chartLine} strokeWidth={2.5} dot={false} activeDot={{r:5,fill:T.chartLine}}/>
-              </LineChart>
-            </ResponsiveContainer>
+            <div style={{width:"100%",height:260,borderRadius:8,overflow:"hidden"}}>
+              <iframe
+                src={"https://www.tradingview.com/widgetembed/?frameElementId=tradingview_btc&symbol=BINANCE%3ABTCUSDT&interval="+{"1D":"60","7D":"240","1M":"D","3M":"W","1Y":"W","ALL":"M"}[chartRange]+"&hidesidetoolbar=1&hidetoptoolbar=0&symboledit=0&saveimage=0&theme=dark&style=1&timezone=Etc%2FUTC&locale=en"}
+                style={{width:"100%",height:"100%",border:"none"}}
+                allowTransparency={true}
+                scrolling="no"
+              />
+            </div>
           </div>
 
           {/* On-Chain */}
