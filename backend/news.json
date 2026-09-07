@@ -64,6 +64,14 @@
     "category": "Markets"
   },
   {
+    "title": "‘White hats’ take 4000 BTC from Liquid, ETFs see best inflows of 2026: Hodler’s Digest",
+    "summary": "Purported white hat hackers have taken 4000 Bitcoin from the Liquid sidechain in a major security breach. The Bitcoin ETFs see the best three weeks of inflows in 2026.",
+    "source": "CoinTelegraph",
+    "time": "9/7/2026, 2:05:02 AM",
+    "link": "https://cointelegraph.com/magazine/white-hats-take-4000-btc-from-liquid-btc-etfs-best-week-of-2026-hodlers-digest?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "category": "Markets"
+  },
+  {
     "title": "Here’s what happened in crypto today",
     "summary": "Need to know what happened in crypto today? Here is the latest news on daily trends and events impacting Bitcoin price, blockchain, DeFi, Web3 and crypto regulation.",
     "source": "CoinTelegraph",
@@ -117,14 +125,6 @@
     "source": "CoinTelegraph",
     "time": "9/4/2026, 9:31:38 PM",
     "link": "https://cointelegraph.com/news/pineapple-financial-puts-1b-in-mortgage-records-on-injective?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "category": "Markets"
-  },
-  {
-    "title": "FinCEN ties $13B in crypto scams to non-US operations",
-    "summary": "The agency reported that “transnational criminal organizations” based in compounds in Southeast Asia were largely behind digital asset scams targeting US residents.",
-    "source": "CoinTelegraph",
-    "time": "9/4/2026, 9:22:26 PM",
-    "link": "https://cointelegraph.com/news/fincen-crypto-overseas-scam-centers-analysis?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
     "category": "Markets"
   },
   {
@@ -192,6 +192,22 @@
     "category": "Markets"
   },
   {
+    "title": "Harmony to fully sunset Layer 1, proposes token migration to Ethereum for AI video initiative",
+    "summary": "Harmony said it would help validators transition to its proposed new initiative, a 'remix economy' with AI video creators.",
+    "source": "The Block",
+    "time": "9/7/2026, 4:28:47 AM",
+    "link": "https://www.theblock.co/news/web3/2026-09-06-harmony-sunset-network-413635",
+    "category": "Markets"
+  },
+  {
+    "title": "Spot bitcoin ETFs pull in $987 million last week as institutional demand recovers",
+    "summary": "Spot bitcoin ETFs drew in $3.52 billion in net inflows in August, their largest monthly positive flows since September 2025.",
+    "source": "The Block",
+    "time": "9/7/2026, 4:15:55 AM",
+    "link": "https://www.theblock.co/news/markets/2026-09-06-bitcoin-etfs-987-million-weekly-inflow-413639",
+    "category": "Markets"
+  },
+  {
     "title": "Liquid Network pauses after purported ‘white-hat’ hackers withdraw $320 million in bitcoin",
     "summary": "The Bitcoin sidechain has been paused, with exchanges suspending LBTC deposits and withdrawals as Blockstream works to contact those responsible.",
     "source": "The Block",
@@ -237,22 +253,6 @@
     "source": "The Block",
     "time": "9/4/2026, 8:35:21 PM",
     "link": "https://www.theblock.co/news/regulation/2026-09-04-trump-wants-hyperliquid-enter-us-how-it-could-happen-413594",
-    "category": "Markets"
-  },
-  {
-    "title": "Zcash tops $1,000 as ETF inflows ramp up and miners pile in",
-    "summary": "Grayscale's ZCSH inflows climb as surging network competition cuts into miners’ gains from the ZEC token's rally.",
-    "source": "The Block",
-    "time": "9/4/2026, 6:59:34 PM",
-    "link": "https://www.theblock.co/news/markets/2026-09-04-zcash-tops-1000-etf-inflows-ramp-up-miners-pile-in-413580",
-    "category": "Markets"
-  },
-  {
-    "title": "Ripple expands college sports push with XRP partnership at Florida",
-    "summary": "The XRP logo will be featured on the field at Ben Hill Griffin Stadium, as well as across Florida Athletics’ digital properties and events.",
-    "source": "The Block",
-    "time": "9/4/2026, 5:37:17 PM",
-    "link": "https://www.theblock.co/news/business/2026-09-04-ripple-college-sports-push-xrp-partnership-florida-gators-413576",
     "category": "Markets"
   }
 ]
