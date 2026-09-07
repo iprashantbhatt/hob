@@ -1,5 +1,13 @@
 [
   {
+    "title": "Hunter Biden debuts 'LAPTOP' memecoin targeting TRUMP holders",
+    "summary": "LAPTOP debuts Wednesday on Base, with nearly a third of the supply set to be burned if a slate of political and market outcomes — including a Democratic win in 2028 — comes good.",
+    "source": "CoinDesk",
+    "time": "9/7/2026, 5:44:30 PM",
+    "link": "https://www.coindesk.com/business/2026/09/07/hunter-biden-is-launching-a-memecoin-named-after-his-laptop",
+    "category": "Markets"
+  },
+  {
     "title": "Polish prosecutors charge fifth suspect in a massive crypto probe",
     "summary": "BitBay became Zondacrypto in 2021. The exchange stopped trading in April after customers faced frozen withdrawals and estimated losses of at least $94 million.",
     "source": "CoinDesk",
@@ -56,139 +64,131 @@
     "category": "Markets"
   },
   {
-    "title": "A two-key breach could hand control of $91 billion in USDT to hackers, report finds",
-    "summary": "The rating agency's new framework combines Wall Street financial auditing with Web3 code reviews to evaluate both off-chain reserves and on-chain security.",
-    "source": "CoinDesk",
-    "time": "9/7/2026, 12:35:23 PM",
-    "link": "https://www.coindesk.com/tech/2026/09/04/tether-receives-bluechip-rating-upgrade-but-hacken-finds-major-key-security-gaps",
-    "category": "Markets"
-  },
-  {
     "title": "Here’s what happened in crypto today",
     "summary": "Need to know what happened in crypto today? Here is the latest news on daily trends and events impacting Bitcoin price, blockchain, DeFi, Web3 and crypto regulation.",
     "source": "CoinTelegraph",
-    "time": "9/7/2026, 2:54:14 PM",
+    "time": "9/7/2026, 11:10:37 PM",
     "link": "https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
     "category": "Markets"
   },
   {
-    "title": "Zcash hits highest price since 2016 as market cap tops $20B",
-    "summary": "ZEC gained 45% over the past week, extending its rally since Grayscale converted its Zcash Trust into an ETF that began trading Aug. 25.",
+    "title": "UK financial watchdog weighs lifting prediction markets ban: Report",
+    "summary": "Companies offering binary options for retail investors have been barred from selling, marketing and distributing products in the UK since 2019 following a directive from the FCA.",
     "source": "CoinTelegraph",
-    "time": "9/7/2026, 2:31:23 PM",
-    "link": "https://cointelegraph.com/markets/zcash-highest-price-market-cap-20-billion?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "time": "9/7/2026, 10:40:17 PM",
+    "link": "https://cointelegraph.com/news/uk-financial-watchdog-prediction-markets-ban?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
     "category": "Markets"
   },
   {
-    "title": "Yen intervention meets US inflation data: Five things to know in Bitcoin this week",
-    "summary": "This week’s CPI and PPI prints, along with the Fed’s Sept. 16 rate decision, could determine whether Bitcoin can secure $80,000 as a support level.",
+    "title": "Ethereum Foundation names 2 ‘must ship’ EIPs for Hegotá upgrade",
+    "summary": "Ethereum’s Hegotá upgrade will center on FOCIL and Frame Transactions as developers weigh dozens of other proposed changes for inclusion.",
     "source": "CoinTelegraph",
-    "time": "9/7/2026, 2:10:22 PM",
-    "link": "https://cointelegraph.com/markets/markets-tilt-toward-september-rate-hikes-five-things-to-know-in-bitcoin-this-week?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "time": "9/7/2026, 10:21:31 PM",
+    "link": "https://cointelegraph.com/news/ethereum-foundation-names-2-must-ship-eips-for-hegot-upgrade?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
     "category": "Markets"
   },
   {
-    "title": "Citi, DBS complete first weekend tokenized cross-border deposit on Swift",
-    "summary": "Citi and DBS completed their first tokenized cross-border transfer over the weekend, using Swift’s blockchain-based ledger to circumvent the constraints of traditional banking hours.",
+    "title": "Joe Biden’s son to launch memecoin, will send to TRUMP holders: WSJ",
+    "summary": "Hunter Biden will reportedly distribute 200 million of the LAPTOP token to his substack subscribers, members of a mailing list and investors in President Donald Trump’s memecoin.",
     "source": "CoinTelegraph",
-    "time": "9/7/2026, 12:34:47 PM",
-    "link": "https://cointelegraph.com/news/dbs-citi-first-weekend-tokenized-deposit-swift?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "time": "9/7/2026, 8:53:47 PM",
+    "link": "https://cointelegraph.com/news/hunter-biden-laptop-memecoin-reimburse-trump-holders?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
     "category": "Markets"
   },
   {
-    "title": "Philippines eyes payment operator registration freeze, tighter VASP checks",
-    "summary": "A central bank proposal would pause new payment operator registrations while requiring enhanced monitoring and transaction limits for arrangements involving virtual asset firms.",
+    "title": "Polish prosecutors charge suspect in Zondacrypto probe, seek pretrial detention",
+    "summary": "Polish prosecutors charged Romana Ż. with organized crime and misappropriation offenses involving $2.1 million in Zondacrypto user funds.",
     "source": "CoinTelegraph",
-    "time": "9/7/2026, 11:51:00 AM",
-    "link": "https://cointelegraph.com/news/philippines-payment-operator-freeze-vasp-checks?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "time": "9/7/2026, 7:58:00 PM",
+    "link": "https://cointelegraph.com/news/polish-prosecutors-charge-man-in-zondacrypto-probe-seek-pretrial-detention?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
     "category": "Markets"
   },
   {
-    "title": "Coldcard third-wave attacker moves 45% of stolen Bitcoin",
-    "summary": "Galaxy said 82% of Bitcoin stolen across all Coldcard attacks remains in the original addresses, with 18% moved in apparent laundering.",
+    "title": "Bitcoin fund flows show investors trading Fed rate path, not exiting market: CoinShares",
+    "summary": "Bitcoin’s struggle to break $80,000 comes as markets price in a growing chance of a September rate hike, putting monetary conditions back in focus.",
     "source": "CoinTelegraph",
-    "time": "9/7/2026, 11:36:19 AM",
-    "link": "https://cointelegraph.com/news/coldcard-third-wave-attacker-moves-bitcoin-stolen?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "time": "9/7/2026, 7:29:27 PM",
+    "link": "https://cointelegraph.com/markets/crypto-fund-flows-show-investors-trading-fed-rate-path-not-exiting-market-coinshares?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
     "category": "Markets"
   },
   {
-    "title": "Fomo overtakes Pump.fun in daily revenue on Solana",
-    "summary": "Fomo generated $1.76 million on Friday, beating Pump.fun’s $1.1 million, though the memecoin launchpad remains ahead over 30 days.",
+    "title": "Capital B adds 376 Bitcoin in $29M purchase, boosting holdings to 3,521 BTC",
+    "summary": "Capital B’s latest Bitcoin purchase was its largest in nearly a year, pushing the French company ahead of H100 Group among publicly traded BTC holders.",
     "source": "CoinTelegraph",
-    "time": "9/7/2026, 9:45:39 AM",
-    "link": "https://cointelegraph.com/news/fomo-pumpfun-revenue-app-solana?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "time": "9/7/2026, 6:42:49 PM",
+    "link": "https://cointelegraph.com/news/capital-b-adds-376-bitcoin-in-29m-purchase-holdings-reach-3521-btc?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
     "category": "Markets"
   },
   {
-    "title": "Bitcoin sidechain Liquid pauses after purported ‘white hats’ withdraw $320M in BTC ",
-    "summary": "The actors told Blockstream they would return most of the 4,000 BTC after the Elements vulnerability is patched across the network.",
+    "title": "Bitcoin chips away at weekend upside as $80K hangs in the balance",
+    "summary": "Bitcoin price fell 2% in low-liquidity conditions as the US Labor Day holiday saw $80,000 once again slip from bulls’ grasp.",
     "source": "CoinTelegraph",
-    "time": "9/7/2026, 7:40:05 AM",
-    "link": "https://cointelegraph.com/news/liquid-network-pauses-320m-bitcoin-withdrawal?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "time": "9/7/2026, 5:57:47 PM",
+    "link": "https://cointelegraph.com/markets/bitcoin-chips-away-at-weekend-upside-as-80k-hangs-in-the-balance?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
     "category": "Markets"
   },
   {
-    "title": "Bitcoin Starts the Week Flat, But Chainlink Is Flying—Here's Why",
-    "summary": "LINK hit an eight-month high after Bottomline, a top-three SWIFT services provider moving $16 trillion a year, tapped Chainlink to connect 600-plus banks to blockchain settlement.",
+    "title": "Your LG TV Might Still Be Listening to You—Even When It Looks Like It’s Off",
+    "summary": "A Gamers Nexus investigation found LG sets scanning every device on a home network and capturing microphone audio with the screen off, four months after LG promised Texas regulators it had cleaned up its tracking.",
     "source": "Decrypt",
-    "time": "9/7/2026, 5:42:34 PM",
-    "link": "https://decrypt.co/377566/bitcoin-starts-flat-chainlink-price-flying",
+    "time": "9/7/2026, 11:46:04 PM",
+    "link": "https://decrypt.co/377637/lg-tv-might-be-listening-even-when-off",
     "category": "Markets"
   },
   {
-    "title": "Ethereum Proposal Would Let Users Pay Gas Without Holding ETH",
-    "summary": "EIP-8141 has been a draft since January, and its authors pitch it first as a defense against quantum computers.",
+    "title": "OpenAI Chief Scientist Warns AI Labs May Need to Slow Down",
+    "summary": "Jakub Pachocki is calling for mandatory safety standards as OpenAI finds it harder to monitor advanced AI models’ reasoning.",
     "source": "Decrypt",
-    "time": "9/7/2026, 5:03:44 PM",
-    "link": "https://decrypt.co/377559/ethereum-proposal-would-let-users-pay-gas-without-holding-eth",
+    "time": "9/7/2026, 11:16:03 PM",
+    "link": "https://decrypt.co/377635/openai-chief-scientist-warns-ai-slow-down",
     "category": "Markets"
   },
   {
-    "title": "Irish Gangs Are Renting Private Vaults to Hide Crypto Keys",
-    "summary": "Keys are going into rented boxes alongside cash, watches and passports, Ireland’s Criminal Assets Bureau says.",
+    "title": "Brazilian Banks Expand Crypto Offerings as Regulation Takes Hold",
+    "summary": "Itaú, Nubank, and Banco do Brasil now sell more than a dozen tokens each to retail clients, even as none of them touch crypto with their own balance sheet.",
     "source": "Decrypt",
-    "time": "9/7/2026, 2:43:50 PM",
-    "link": "https://decrypt.co/377546/irish-gangs-are-renting-private-vaults-to-hide-crypto-keys",
+    "time": "9/7/2026, 10:31:03 PM",
+    "link": "https://decrypt.co/377621/brazilian-banks-expand-crypto-offerings",
     "category": "Markets"
   },
   {
-    "title": "Coldcard Hacker Moves $7.7M, Nearly Half of Third-Wave Bitcoin Haul",
-    "summary": "The attacker built 293 separate vaults for the stolen Bitcoin and is emptying them in order of size, largest first.",
+    "title": "Will the Crypto Trenches Show Up for Hunter Biden's Meme Coin?",
+    "summary": "Biden's LAPTOP meme coin drops this week. Most crypto traders out there so far don't seem too enthused.",
     "source": "Decrypt",
-    "time": "9/7/2026, 1:09:27 PM",
-    "link": "https://decrypt.co/377537/coldcard-hacker-moves-7-7m-nearly-half-of-third-wave-bitcoin-haul",
+    "time": "9/7/2026, 9:47:27 PM",
+    "link": "https://decrypt.co/377613/will-crypto-traders-buy-hunter-biden-meme-coin",
     "category": "Markets"
   },
   {
-    "title": "'Purported White-Hat Hackers' Withdraw $320M in Bitcoin From Liquid",
-    "summary": "Blockstream and the hackers are engaging with each other through PGP-signed messages in Bitcoin transactions.",
+    "title": "Liquid Hackers Return $270M in Bitcoin After Swiping $320 Million",
+    "summary": "Nearly 600 BTC remains outstanding after Blockstream told the actors in an on-chain message that Liquid’s bridge nodes had been patched.",
     "source": "Decrypt",
-    "time": "9/7/2026, 11:55:42 AM",
-    "link": "https://decrypt.co/377528/purported-white-hat-hackers-withdraw-320m-in-bitcoin-from-liquid",
+    "time": "9/7/2026, 9:13:56 PM",
+    "link": "https://decrypt.co/377600/liquid-hackers-return-270m-bitcoin",
     "category": "Markets"
   },
   {
-    "title": "OpenAI's GPT-6 Astra Is Shockingly Good at Almost Everything",
-    "summary": "Early testers spent OpenAI's launch weekend pushing Astra through 3D cities, playable games, Bach chorales and research papers.",
+    "title": "Middle East Crypto Activity Triples to $350 Billion Amid Ongoing Conflict, Report Finds",
+    "summary": "The Iran conflict has increased demand for digital assets to preserve and transfer wealth, while Gulf crypto businesses have kept operating through disruption, the Bitcoin Policy Institute says.",
     "source": "Decrypt",
-    "time": "9/6/2026, 7:01:04 PM",
-    "link": "https://decrypt.co/377514/openai-gpt-6-astra-review-shockingly-good",
+    "time": "9/7/2026, 8:16:04 PM",
+    "link": "https://decrypt.co/377597/middle-east-crypto-activity-350-billion",
     "category": "Markets"
   },
   {
-    "title": "XRP Gets Another Boost Through Ripple Deal With Florida Athletics",
-    "summary": "The multi-year deal will place the XRP logo on the field at Ben Hill Griffin Stadium starting this season, extending Ripple's push into college athletics.",
+    "title": "Malone Lam Faces Plea Hearing Over $245M Bitcoin Theft",
+    "summary": "A plea agreement hearing in Lam's case is set for Tuesday in Washington, nearly two years after his arrest in Miami.",
     "source": "Decrypt",
-    "time": "9/6/2026, 6:01:03 PM",
-    "link": "https://decrypt.co/377512/xrp-boost-ripple-florida-athletics",
+    "time": "9/7/2026, 7:41:55 PM",
+    "link": "https://decrypt.co/377595/malone-lam-faces-plea-hearing-over-245m-bitcoin-theft",
     "category": "Markets"
   },
   {
-    "title": "Stablecoins Won't Scale Without Banks",
-    "summary": "With a growing number of institutions exploring stablecoins, the bottleneck is regulated infrastructure they can trust.",
+    "title": "Hunter Biden to Airdrop LAPTOP Meme Coin to TRUMP’s Biggest Losers",
+    "summary": "Hunter Biden is launching a meme coin called LAPTOP on Sept. 9 on Base, and airdropping traders who lost money on TRUMP.",
     "source": "Decrypt",
-    "time": "9/6/2026, 5:01:03 PM",
-    "link": "https://decrypt.co/377280/stablecoins-wont-scale-without-banks",
+    "time": "9/7/2026, 6:26:00 PM",
+    "link": "https://decrypt.co/377581/hunter-biden-laptop-meme-coin-airdrop-trump",
     "category": "Markets"
   },
   {
@@ -208,8 +208,8 @@
     "category": "Markets"
   },
   {
-    "title": "Liquid Network attacker says they will return most of 4,000 BTC after bug fix",
-    "summary": "The Liquid Network attacker said they would return most of the roughly 4,000 BTC once the software bug affecting the network is patched.",
+    "title": "Liquid Network attacker returns 3,400 BTC after bug fix, retains nearly 600 BTC",
+    "summary": "The Liquid Network attacker returned 3,400 BTC after Blockstream said its bridge nodes had been patched, leaving about 598.5 BTC behind.",
     "source": "The Block",
     "time": "9/7/2026, 12:20:16 PM",
     "link": "https://www.theblock.co/news/defi/2026-09-07-liquid-network-attacker-says-they-will-return-most-of-4000-btc-after-bug-fix-413673",
