@@ -1,5 +1,53 @@
 [
   {
+    "title": "Live updates: Bitcoin holds $79,000 as hike odds climb, zcash runs 45% in a week",
+    "summary": "August payrolls came in three times above forecast and pushed September hike odds toward 58%. Equities sold it and crypto has not.",
+    "source": "CoinDesk",
+    "time": "9/7/2026, 10:17:12 AM",
+    "link": "https://www.coindesk.com/business/2026/09/07/live-updates-bitcoin-holds-usd79-000-as-hike-odds-climb-zcash-runs-45-in-a-week",
+    "category": "Markets"
+  },
+  {
+    "title": "U.S. inflation, Coinbase’s Deribit switch: Crypto Week Ahead",
+    "summary": "Your look at what's coming in the week starting Sept. 7.",
+    "source": "CoinDesk",
+    "time": "9/7/2026, 10:07:05 AM",
+    "link": "https://www.coindesk.com/markets/2026/09/07/u-s-inflation-coinbase-s-deribit-switch-crypto-week-ahead",
+    "category": "Markets"
+  },
+  {
+    "title": "Once-hyped Ethereum rival Harmony wants to shut its blockchain over AI threats",
+    "summary": "Developers want to voluntarily shut down the network, saying state actors and AI agents have made security too difficult, then redirect ONE emissions into an AI video business.",
+    "source": "CoinDesk",
+    "time": "9/7/2026, 10:02:18 AM",
+    "link": "https://www.coindesk.com/markets/2026/09/07/once-hyped-ethereum-rival-harmony-wants-to-shut-its-blockchain-over-ai-threats",
+    "category": "Markets"
+  },
+  {
+    "title": "This cat memecoin has paid holders $2.8 million in Zcash as ZEC tops $1,200",
+    "summary": "A brand new ZCAT token charges a 3% tax whenever the token moves and uses the proceeds to distribute ZEC to holders, creating an unusual link to one of crypto's hottest assets.",
+    "source": "CoinDesk",
+    "time": "9/7/2026, 7:52:44 AM",
+    "link": "https://www.coindesk.com/markets/2026/09/07/this-cat-memecoin-has-paid-holders-usd2-8-million-in-zcash-as-zec-tops-usd1-200",
+    "category": "Markets"
+  },
+  {
+    "title": "Oil up, bitcoin down as U.S. strikes Iranian crude carriers",
+    "summary": "Bitcoin trades lower by nearly 1% as escalating U.S.-Iran hostilities push oil higher.",
+    "source": "CoinDesk",
+    "time": "9/7/2026, 6:44:16 AM",
+    "link": "https://www.coindesk.com/markets/2026/09/07/oil-up-bitcoin-down-as-u-s-strikes-iranian-crude-carriers",
+    "category": "Markets"
+  },
+  {
+    "title": "Bitcoin network used by exchanges hit by $320 million exploit. Hackers claim they're the 'good guys'",
+    "summary": "Liquid Network, a settlement layer used by exchanges, halted all transactions after losing $320 million worth of bitcoin in a security exploit.",
+    "source": "CoinDesk",
+    "time": "9/7/2026, 5:43:12 AM",
+    "link": "https://www.coindesk.com/markets/2026/09/07/bitcoin-network-used-by-exchanges-hit-by-usd320-million-exploit-hackers-claim-they-re-the-good-guys",
+    "category": "Markets"
+  },
+  {
     "title": "Prediction markets inch closer to the Supreme Court: State of Crypto ",
     "summary": "New Jersey petitioned for a writ of certiorari in Kalshi's case against it last week, finally throwing the ball to the high court.",
     "source": "CoinDesk",
@@ -16,51 +64,51 @@
     "category": "Markets"
   },
   {
-    "title": "Better and Coinbase’s bitcoin-backed mortgages can reuse borrowers’ collateral ",
-    "summary": "Better Mortgage can reuse the pledged bitcoin, and borrowers cannot recover their crypto until the main conventional mortgage is fully repaid or refinanced.",
-    "source": "CoinDesk",
-    "time": "9/6/2026, 4:00:00 PM",
-    "link": "https://www.coindesk.com/business/2026/09/06/better-and-coinbase-s-bitcoin-backed-mortgages-can-reuse-borrowers-collateral",
+    "title": "Philippines eyes payment operator registration freeze, tighter VASP checks",
+    "summary": "A central bank proposal would pause new payment operator registrations while requiring enhanced monitoring and transaction limits for arrangements involving virtual asset firms.",
+    "source": "CoinTelegraph",
+    "time": "9/7/2026, 11:51:00 AM",
+    "link": "https://cointelegraph.com/news/philippines-payment-operator-freeze-vasp-checks?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
     "category": "Markets"
   },
   {
-    "title": "Timing the bitcoin market is exciting but nearly impossible. Here's why",
-    "summary": "A historical analysis of bitcoin price performance from 2010 through 2026 demonstrates that the vast majority of the asset's annual returns occur during a tiny fraction of the calendar year.",
-    "source": "CoinDesk",
-    "time": "9/5/2026, 8:05:11 PM",
-    "link": "https://www.coindesk.com/markets/2026/09/05/why-crypto-experts-say-buying-and-holding-bitcoin-easily-beats-trying-to-time-the-market",
+    "title": "Coldcard third-wave attacker moves 45% of stolen Bitcoin",
+    "summary": "Galaxy said 82% of Bitcoin stolen across all Coldcard attacks remains in the original addresses, with 18% moved in apparent laundering.",
+    "source": "CoinTelegraph",
+    "time": "9/7/2026, 11:36:19 AM",
+    "link": "https://cointelegraph.com/news/coldcard-third-wave-attacker-moves-bitcoin-stolen?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
     "category": "Markets"
   },
   {
-    "title": "Dollar-backed stablecoins can push local currencies lower, Bank of Korea study finds",
-    "summary": "Buying pressure in Binance-paired currencies correlates with local currency depreciation as market makers balance positions.",
-    "source": "CoinDesk",
-    "time": "9/5/2026, 6:43:13 PM",
-    "link": "https://www.coindesk.com/business/2026/09/05/dollar-backed-stablecoins-can-push-local-currencies-lower-bank-of-korea-study-finds",
+    "title": "Fomo overtakes Pump.fun in daily revenue on Solana",
+    "summary": "Fomo generated $1.76 million on Friday, beating Pump.fun’s $1.1 million, though the memecoin launchpad remains ahead over 30 days.",
+    "source": "CoinTelegraph",
+    "time": "9/7/2026, 9:45:39 AM",
+    "link": "https://cointelegraph.com/news/fomo-pumpfun-revenue-app-solana?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
     "category": "Markets"
   },
   {
-    "title": "British investor thought he lost $2,000 in bitcoin in 2012. He just recovered $4.5 million",
-    "summary": "CEL Solicitors says it has identified a wallet holding more than 5,500 BTC linked to former Intersango users.",
-    "source": "CoinDesk",
-    "time": "9/5/2026, 2:00:00 PM",
-    "link": "https://www.coindesk.com/business/2026/09/02/british-investor-thought-he-lost-usd2-000-in-bitcoin-in-2012-he-just-recovered-usd4-5-million",
+    "title": "Here’s what happened in crypto today",
+    "summary": "Need to know what happened in crypto today? Here is the latest news on daily trends and events impacting Bitcoin price, blockchain, DeFi, Web3 and crypto regulation.",
+    "source": "CoinTelegraph",
+    "time": "9/7/2026, 8:29:41 AM",
+    "link": "https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
     "category": "Markets"
   },
   {
-    "title": "XRP Ledger has fewer active accounts than last year, but bigger trades and more value",
-    "summary": "Daily order-book traders fell about 40% from a year ago while volume rose 79%, as the value held on XRPL climbed above $4 billion.",
-    "source": "CoinDesk",
-    "time": "9/5/2026, 7:30:45 AM",
-    "link": "https://www.coindesk.com/markets/2026/09/05/xrp-ledger-has-fewer-active-accounts-but-bigger-trades-and-more-value",
+    "title": "Bitcoin sidechain Liquid pauses after purported ‘white hats’ withdraw $320M in BTC ",
+    "summary": "The actors told Blockstream they would return most of the 4,000 BTC after the Elements vulnerability is patched across the network.",
+    "source": "CoinTelegraph",
+    "time": "9/7/2026, 7:40:05 AM",
+    "link": "https://cointelegraph.com/news/liquid-network-pauses-320m-bitcoin-withdrawal?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
     "category": "Markets"
   },
   {
-    "title": "Southeast Asia’s crypto funding rebounds to $680 million as investors focus on mature firms",
-    "summary": "Blockchain investment in Southeast Asia in 2026 has been led by crypto financial services, though funding remains heavily concentrated  in Singapore and a handful of companies.",
-    "source": "CoinDesk",
-    "time": "9/5/2026, 7:00:00 AM",
-    "link": "https://www.coindesk.com/business/2026/09/05/southeast-asia-s-crypto-funding-rebounds-to-usd680-million-as-investors-focus-on-mature-firms",
+    "title": "Harmony proposes shutting down layer 1, migrating ONE to Ethereum",
+    "summary": "Harmony proposed sunsetting its layer-1 blockchain and migrating ONE to Ethereum, weeks after an exploit led to plans to discard 109,000 transactions.",
+    "source": "CoinTelegraph",
+    "time": "9/7/2026, 7:00:49 AM",
+    "link": "https://cointelegraph.com/news/harmony-proposes-shutting-down-layer-1-migrating-one-to-ethereum?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
     "category": "Markets"
   },
   {
@@ -72,14 +120,6 @@
     "category": "Markets"
   },
   {
-    "title": "Here’s what happened in crypto today",
-    "summary": "Need to know what happened in crypto today? Here is the latest news on daily trends and events impacting Bitcoin price, blockchain, DeFi, Web3 and crypto regulation.",
-    "source": "CoinTelegraph",
-    "time": "9/6/2026, 3:24:43 PM",
-    "link": "https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "category": "Markets"
-  },
-  {
     "title": "Satoshi-era Bitcoin wakes after 16 years of dormancy as 600 BTC moves",
     "summary": "Whale Alert identified 12 mining rewards totaling 600 BTC that moved after 16 years of dormancy, with the onchain tracking platform finding no connection to Satoshi Nakamoto.",
     "source": "CoinTelegraph",
@@ -88,43 +128,11 @@
     "category": "Markets"
   },
   {
-    "title": "Tether-backed Orionx to shut down after audit flags $7M custody gap",
-    "summary": "Tether-backed Orionx is permanently closing after an audit found more than $7 million in customer assets had moved to wallets outside its custody.",
-    "source": "CoinTelegraph",
-    "time": "9/6/2026, 11:07:08 AM",
-    "link": "https://cointelegraph.com/news/orionx-shut-down-7-million-move-outside-wallets?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "category": "Markets"
-  },
-  {
-    "title": "Poland upholds crypto bill veto as Zondacrypto scandal widens",
-    "summary": "Polish lawmakers failed to overturn a presidential veto of crypto legislation as the Zondacrypto investigation expands and its Estonian operator enters bankruptcy.",
-    "source": "CoinTelegraph",
-    "time": "9/5/2026, 12:46:00 PM",
-    "link": "https://cointelegraph.com/news/poland-upholds-crypto-bill-veto-zondacrypto-scandal-widens?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "category": "Markets"
-  },
-  {
-    "title": "Bitcoin ETF inflows hit $3.8B in strongest three-week stretch of 2026",
-    "summary": "US spot Bitcoin ETFs drew nearly $1 billion in the latest week as Friday inflows stayed positive despite Bitcoin briefly falling below $79,000.",
-    "source": "CoinTelegraph",
-    "time": "9/5/2026, 10:03:06 AM",
-    "link": "https://cointelegraph.com/markets/bitcoin-etf-inflows-3-8-billion-strongest-three-week-run-2026?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "category": "Markets"
-  },
-  {
-    "title": "Surprise nonfarm payrolls print sends Bitcoin back below 80K",
-    "summary": "The US economy added far more jobs than expected in August, pressuring Bitcoin lower as traders repriced the odds of a Federal Reserve rate cut this month.",
-    "source": "CoinTelegraph",
-    "time": "9/4/2026, 10:30:47 PM",
-    "link": "https://cointelegraph.com/markets/surprise-labor-market-print-sends-bitcoin-back-below-80k?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "category": "Markets"
-  },
-  {
-    "title": "Pineapple Financial puts $1B in mortgage records on Injective",
-    "summary": "The mortgage lender plans to bring more than $10 billion in historical loans onchain, turning thousands of mortgage files into blockchain-based records.",
-    "source": "CoinTelegraph",
-    "time": "9/4/2026, 9:31:38 PM",
-    "link": "https://cointelegraph.com/news/pineapple-financial-puts-1b-in-mortgage-records-on-injective?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "title": "'Purported White-Hat Hackers' Withdraw $320M in Bitcoin From Liquid",
+    "summary": "Blockstream and the hackers are engaging with each other through PGP-signed messages in Bitcoin transactions.",
+    "source": "Decrypt",
+    "time": "9/7/2026, 11:55:42 AM",
+    "link": "https://decrypt.co/377528/purported-white-hat-hackers-withdraw-320m-in-bitcoin-from-liquid",
     "category": "Markets"
   },
   {
@@ -184,11 +192,27 @@
     "category": "Markets"
   },
   {
-    "title": "AI Just Solved a 350-Year-Old Math Problem By Writing the Longest Proof Ever",
-    "summary": "Anthropic says Claude spent 11 days turning Fermat's Last Theorem into 13 million lines of code a computer can check itself, no human trust required",
-    "source": "Decrypt",
-    "time": "9/5/2026, 3:01:03 PM",
-    "link": "https://decrypt.co/377491/ai-solved-350-year-old-math-problem",
+    "title": "Capital B buys $29 million in bitcoin after raises, its largest BTC purchase in a year",
+    "summary": "This brought its total holdings to 3,521 BTC and marked the company's largest bitcoin purchase since September 2025.",
+    "source": "The Block",
+    "time": "9/7/2026, 10:42:02 AM",
+    "link": "https://www.theblock.co/news/business/2026-09-07-capital-b-buys-29-million-worth-bitcoin-413667",
+    "category": "Markets"
+  },
+  {
+    "title": "Coldcard exploiter moves 45% of funds stolen from ‘Wave 3’ attacks, Galaxy says",
+    "summary": "As of mid-August, Galaxy said it had identified roughly 1,779 BTC stolen from 190 victims and more than 8,600 addresses.",
+    "source": "The Block",
+    "time": "9/7/2026, 9:30:32 AM",
+    "link": "https://www.theblock.co/news/defi/2026-09-07-coldcard-exploiter-moves-wave-3-413661",
+    "category": "Markets"
+  },
+  {
+    "title": "South Korea’s Hanwha develops tokenized securities platform on Avalanche as local regulation takes shape: report",
+    "summary": "South Korea passed amendments that integrate tokenized securities into the existing financial system, coming into effect next February.",
+    "source": "The Block",
+    "time": "9/7/2026, 8:24:46 AM",
+    "link": "https://www.theblock.co/news/business/2026-09-07-south-korea-hanwha-tokenized-securities-platform-avalanche-413652",
     "category": "Markets"
   },
   {
@@ -229,30 +253,6 @@
     "source": "The Block",
     "time": "9/6/2026, 8:03:26 PM",
     "link": "https://www.theblock.co/news/defi/2026-09-06-coinbase-backed-router-protocol-to-shut-down-burn-303-million-route-tokens-413618",
-    "category": "Markets"
-  },
-  {
-    "title": "UBS, Jane Street among firms with combined $75 million in Hyperliquid ETF holdings: Bloomberg",
-    "summary": "Brazil's Wealth High Governance Asset Management held about $24 million worth of 21Shares' HYPE fund as of the end of June, the top HYPE ETF holder.",
-    "source": "The Block",
-    "time": "9/5/2026, 10:02:08 PM",
-    "link": "https://www.theblock.co/news/defi/2026-09-05-ubs-jane-street-among-firms-with-combined-75-million-in-hyperliquid-etf-holdings-bloomberg-413616",
-    "category": "Markets"
-  },
-  {
-    "title": "LeBron James teases Polymarket partnership in new social media video",
-    "summary": "The announcement comes after James' free agency decision generated $273 million in prediction market volume across platforms.",
-    "source": "The Block",
-    "time": "9/5/2026, 4:01:40 PM",
-    "link": "https://www.theblock.co/news/deals/2026-09-05-lebron-james-teases-polymarket-partnership-in-new-social-media-video-413608",
-    "category": "Markets"
-  },
-  {
-    "title": "President Trump says he wants Hyperliquid to enter the US — here’s how it could happen",
-    "summary": "President Trump says his administration is working to bring Hyperliquid into the U.S., raising a deceptively simple question: How?",
-    "source": "The Block",
-    "time": "9/4/2026, 8:35:21 PM",
-    "link": "https://www.theblock.co/news/regulation/2026-09-04-trump-wants-hyperliquid-enter-us-how-it-could-happen-413594",
     "category": "Markets"
   }
 ]
