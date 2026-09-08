@@ -1,5 +1,53 @@
 [
   {
+    "title": "Live updates: Yen rally and rising bond yields pressure bitcoin and risk assets",
+    "summary": "Bitcoin, gold and technology stocks fall as the yen rallies, while oil prices and government bond yields climb globally.",
+    "source": "CoinDesk",
+    "time": "9/8/2026, 10:30:30 AM",
+    "link": "https://www.coindesk.com/tech/2026/09/08/live-updates",
+    "category": "Markets"
+  },
+  {
+    "title": "Bit2Me sets up specialized unit to help law enforcement track down crypto assets",
+    "summary": "The unit formalizes past operations, building on 1.5 million euros in seized crypto the exchange processed in 2025 for agencies including Interpol and Europol.",
+    "source": "CoinDesk",
+    "time": "9/8/2026, 9:00:00 AM",
+    "link": "https://www.coindesk.com/business/2026/09/02/bit2me-sets-up-specialized-unit-to-help-law-enforcement-track-down-crypto-assets",
+    "category": "Markets"
+  },
+  {
+    "title": "Hunter Biden wants to launch a LAPTOP memecoin. Crypto traders hate it already",
+    "summary": "Kraken deleted a promotional post after backlash, while a media group named in the token's distribution publicly distanced itself from the project.",
+    "source": "CoinDesk",
+    "time": "9/8/2026, 8:23:53 AM",
+    "link": "https://www.coindesk.com/markets/2026/09/08/crypto-traders-turn-on-hunter-biden-s-laptop-memecoin-before-it-even-launches",
+    "category": "Markets"
+  },
+  {
+    "title": "Bitcoin’s golden cross is here",
+    "summary": "A golden cross has triggered on bitcoin's daily price chart, indicating a potential long-term bullish trend ahead.",
+    "source": "CoinDesk",
+    "time": "9/8/2026, 7:56:23 AM",
+    "link": "https://www.coindesk.com/markets/2026/09/08/bitcoin-s-golden-cross-is-here",
+    "category": "Markets"
+  },
+  {
+    "title": "Liquid Network gets back 3,400 bitcoin from whitehat hackers; talks underway for the rest",
+    "summary": "Supposed whitehat hackers behind Sunday’s Liquid Network breach have returned 3,400 of the 4,000 BTC they took, but nearly $47 million in bitcoin is still outstanding.",
+    "source": "CoinDesk",
+    "time": "9/8/2026, 6:41:17 AM",
+    "link": "https://www.coindesk.com/markets/2026/09/08/white-hat-hackers-return-most-of-usd320m-bitcoin-taken-from-liquid-network",
+    "category": "Markets"
+  },
+  {
+    "title": "Bitcoin slips under $79,000, Zcash leads losses as Fed hike odds hold near 60%",
+    "summary": "Every major token fell on Tuesday, though most keep weekly gains, with traders pricing a 60% chance of a Fed hike next week.",
+    "source": "CoinDesk",
+    "time": "9/8/2026, 6:40:57 AM",
+    "link": "https://www.coindesk.com/markets/2026/09/08/bitcoin-slips-under-usd79-000-zcash-leads-losses-as-fed-hike-odds-hold-near-60",
+    "category": "Markets"
+  },
+  {
     "title": "Metaplanet CEO breaks silence but shareholders say the hard questions remain unanswered",
     "summary": "Simon Gerovich said Metaplanet had not adequately explained the structure, and denied involvement in MMXX Ventures’ trading decisions.",
     "source": "CoinDesk",
@@ -16,51 +64,43 @@
     "category": "Markets"
   },
   {
-    "title": "Polish prosecutors charge fifth suspect in a massive crypto probe",
-    "summary": "BitBay became Zondacrypto in 2021. The exchange stopped trading in April after customers faced frozen withdrawals and estimated losses of at least $94 million.",
-    "source": "CoinDesk",
-    "time": "9/7/2026, 5:28:43 PM",
-    "link": "https://www.coindesk.com/policy/2026/09/07/polish-prosecutors-charge-fifth-suspect-in-a-massive-crypto-probe",
+    "title": "New Bitcoin whales spark sell-side risk as unrealized gains hit $9B",
+    "summary": "Unrealized gains by whale speculators hit their highest levels on record last week, per data going back to 2016.",
+    "source": "CoinTelegraph",
+    "time": "9/8/2026, 11:40:26 AM",
+    "link": "https://cointelegraph.com/markets/new-bitcoin-whales-spark-sell-side-risk-as-unrealized-gains-hit-9b?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
     "category": "Markets"
   },
   {
-    "title": "Stablecoin wallets challenge traditional bank accounts as main consumer money hub",
-    "summary": "Industry leaders debate whether digital dollar wallets will dismantle traditional bank accounts or simply modernize the underlying infrastructure.",
-    "source": "CoinDesk",
-    "time": "9/7/2026, 4:12:15 PM",
-    "link": "https://www.coindesk.com/business/2026/09/07/stablecoin-wallets-challenge-traditional-bank-accounts-as-main-consumer-money-hub",
+    "title": "Cronos confirms $9.2M slipped away before Tectonic exploit rollback",
+    "summary": "Cronos’s post-mortem put the Tectonic exploit’s affected borrowing at $120.4 million, with 7.6% transferred off-network before validators intervened.",
+    "source": "CoinTelegraph",
+    "time": "9/8/2026, 10:10:44 AM",
+    "link": "https://cointelegraph.com/news/cronos-tectonic-rollback-111m-9m-escaped?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
     "category": "Markets"
   },
   {
-    "title": "Ethereum commits to letting users pay gas fees without having to hold ETH",
-    "summary": "The Frame Transactions feature was locked into the Hegotá upgrade last month, and Ethereum co-founder Vitalik Buterin says the work has moved quickly since.",
-    "source": "CoinDesk",
-    "time": "9/7/2026, 3:54:07 PM",
-    "link": "https://www.coindesk.com/tech/2026/09/07/ethereum-commits-to-letting-users-pay-gas-fees-without-having-to-hold-eth",
+    "title": "Swiss stablecoin sandbox enters testing phase, adds two new partners",
+    "summary": "Financial market operator SIX and payment app TWINT have joined numerous banks in the sandbox seeking to develop a Swiss franc-based stablecoin.",
+    "source": "CoinTelegraph",
+    "time": "9/8/2026, 9:18:32 AM",
+    "link": "https://cointelegraph.com/news/swiss-stablecoin-sandbox-testing-phase-two-new-partners?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
     "category": "Markets"
   },
   {
-    "title": "Solana to triple transaction size as apps get room for more complex trades",
-    "summary": "A Transaction v1 feature activates Wednesday, allowing complex proofs and large multisig operations to fit in one transaction while forcing services that read Solana to update.",
-    "source": "CoinDesk",
-    "time": "9/7/2026, 2:08:11 PM",
-    "link": "https://www.coindesk.com/tech/2026/09/07/solana-to-triple-transaction-size-as-apps-get-room-for-more-complex-trades",
+    "title": "Here’s what happened in crypto today",
+    "summary": "Need to know what happened in crypto today? Here is the latest news on daily trends and events impacting Bitcoin price, blockchain, DeFi, Web3 and crypto regulation.",
+    "source": "CoinTelegraph",
+    "time": "9/8/2026, 7:52:38 AM",
+    "link": "https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
     "category": "Markets"
   },
   {
-    "title": " DBS and Citi complete weekend USD payment via Swift’s Digital Ledger using tokenized deposits",
-    "summary": "The transaction is the second confirmed live use of Swift's blockchain ledger, coming as the network races to prove it can compete with digital payment rails that never close.",
-    "source": "CoinDesk",
-    "time": "9/7/2026, 2:05:32 PM",
-    "link": "https://www.coindesk.com/business/2026/09/07/dbs-and-citi-enable-instant-24-7-cross-border-tokenised-deposit-payments-on-the-swift-ledger",
-    "category": "Markets"
-  },
-  {
-    "title": "Bitcoin blinks less than gold when Treasury yields move",
-    "summary": "Your day-ahead look for Sept. 7, 2026",
-    "source": "CoinDesk",
-    "time": "9/7/2026, 1:15:00 PM",
-    "link": "https://www.coindesk.com/daybook-us/2026/09/07/bitcoin-blinks-less-than-gold-when-treasury-yields-move",
+    "title": "Australia says it removed 45 crypto, remittance registrations over the past year",
+    "summary": "AUSTRAC said its yearlong sweep included canceled, suspended and unrenewed registrations, while its action against GetCoins helped disrupt organized investment scams.",
+    "source": "CoinTelegraph",
+    "time": "9/8/2026, 7:10:33 AM",
+    "link": "https://cointelegraph.com/news/australia-removes-45-crypto-remittance-registrations?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
     "category": "Markets"
   },
   {
@@ -69,14 +109,6 @@
     "source": "CoinTelegraph",
     "time": "9/8/2026, 5:46:17 AM",
     "link": "https://cointelegraph.com/news/liquid-white-hats-return-270m-bitcoin-network-restart?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "category": "Markets"
-  },
-  {
-    "title": "Here’s what happened in crypto today",
-    "summary": "Need to know what happened in crypto today? Here is the latest news on daily trends and events impacting Bitcoin price, blockchain, DeFi, Web3 and crypto regulation.",
-    "source": "CoinTelegraph",
-    "time": "9/7/2026, 11:10:37 PM",
-    "link": "https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
     "category": "Markets"
   },
   {
@@ -96,35 +128,11 @@
     "category": "Markets"
   },
   {
-    "title": "Joe Biden’s son to launch memecoin, will send to TRUMP holders: WSJ",
-    "summary": "Hunter Biden will reportedly distribute 200 million of the LAPTOP token to his substack subscribers, members of a mailing list and investors in President Donald Trump’s memecoin.",
-    "source": "CoinTelegraph",
-    "time": "9/7/2026, 8:53:47 PM",
-    "link": "https://cointelegraph.com/news/hunter-biden-laptop-memecoin-reimburse-trump-holders?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "category": "Markets"
-  },
-  {
-    "title": "Polish prosecutors charge suspect in Zondacrypto probe, seek pretrial detention",
-    "summary": "Polish prosecutors charged Romana Ż. with organized crime and misappropriation offenses involving $2.1 million in Zondacrypto user funds.",
-    "source": "CoinTelegraph",
-    "time": "9/7/2026, 7:58:00 PM",
-    "link": "https://cointelegraph.com/news/polish-prosecutors-charge-man-in-zondacrypto-probe-seek-pretrial-detention?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "category": "Markets"
-  },
-  {
-    "title": "Bitcoin fund flows show investors trading Fed rate path, not exiting market: CoinShares",
-    "summary": "Bitcoin’s struggle to break $80,000 comes as markets price in a growing chance of a September rate hike, putting monetary conditions back in focus.",
-    "source": "CoinTelegraph",
-    "time": "9/7/2026, 7:29:27 PM",
-    "link": "https://cointelegraph.com/markets/crypto-fund-flows-show-investors-trading-fed-rate-path-not-exiting-market-coinshares?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "category": "Markets"
-  },
-  {
-    "title": "Capital B adds 376 Bitcoin in $29M purchase, boosting holdings to 3,521 BTC",
-    "summary": "Capital B’s latest Bitcoin purchase was its largest in nearly a year, pushing the French company ahead of H100 Group among publicly traded BTC holders.",
-    "source": "CoinTelegraph",
-    "time": "9/7/2026, 6:42:49 PM",
-    "link": "https://cointelegraph.com/news/capital-b-adds-376-bitcoin-in-29m-purchase-holdings-reach-3521-btc?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "title": "Polish Court Detains Fifth Suspect in Zondacrypto Exchange Probe",
+    "summary": "Two chief executives of the exchange have now vanished, four years apart, leaving 1.3 million clients locked out.",
+    "source": "Decrypt",
+    "time": "9/8/2026, 11:54:59 AM",
+    "link": "https://decrypt.co/377650/polish-court-detains-fifth-suspect-in-zondacrypto-exchange-probe",
     "category": "Markets"
   },
   {
@@ -184,11 +192,35 @@
     "category": "Markets"
   },
   {
-    "title": "Hunter Biden to Airdrop LAPTOP Meme Coin to TRUMP’s Biggest Losers",
-    "summary": "Hunter Biden is launching a meme coin called LAPTOP on Sept. 9 on Base, and airdropping traders who lost money on TRUMP.",
-    "source": "Decrypt",
-    "time": "9/7/2026, 6:26:00 PM",
-    "link": "https://decrypt.co/377581/hunter-biden-laptop-meme-coin-airdrop-trump",
+    "title": "Metaplanet slides 17% this week as CEO’s public note fails to ease investor concerns",
+    "summary": "The drop comes amid controversies surrounding Metaplanet's expanded Series 10 executive option pool and CEO Simon Gerovich's ties to MMXX Ventures.",
+    "source": "The Block",
+    "time": "9/8/2026, 11:13:45 AM",
+    "link": "https://www.theblock.co/news/markets/2026-09-08-metaplanet-slips-17-this-week-413738",
+    "category": "Markets"
+  },
+  {
+    "title": "‘The chain is now earnings’: Bernstein sees 31% upside for Robinhood as fees top Solana, BNB Chain",
+    "summary": "Bernstein sees 31% upside for Robinhood as its new chain tops Solana in fees, generating $33 million over 15 days.",
+    "source": "The Block",
+    "time": "9/8/2026, 10:50:14 AM",
+    "link": "https://www.theblock.co/news/markets/2026-09-08-bernstein-sees-upside-robinhood-413729",
+    "category": "Markets"
+  },
+  {
+    "title": "Cronos says $9.2 million remains unrecovered after Tectonic exploit, chain rollback",
+    "summary": "A subsequent rollback reversed roughly $111.2 million, but $9.19 million had already left the chain and remains unrecovered, Cronos says.",
+    "source": "The Block",
+    "time": "9/8/2026, 7:51:16 AM",
+    "link": "https://www.theblock.co/news/ecosystems/2026-09-08-cronos-post-mortem-413724",
+    "category": "Markets"
+  },
+  {
+    "title": "Ethereum aims for quantum-safe L1 by 2029 as Hegotá upgrade takes form",
+    "summary": "Ethereum is targeting full post-quantum security by 2029, starting with account abstraction and censorship resistance upgrades for Hegotá.",
+    "source": "The Block",
+    "time": "9/8/2026, 6:17:21 AM",
+    "link": "https://www.theblock.co/news/ecosystems/2026-09-08-ethereum-foundation-quantum-resistance-2029-413716",
     "category": "Markets"
   },
   {
@@ -221,38 +253,6 @@
     "source": "The Block",
     "time": "9/7/2026, 10:42:02 AM",
     "link": "https://www.theblock.co/news/business/2026-09-07-capital-b-buys-29-million-worth-bitcoin-413667",
-    "category": "Markets"
-  },
-  {
-    "title": "Coldcard exploiter moves 45% of funds stolen from ‘Wave 3’ attacks, Galaxy says",
-    "summary": "As of mid-August, Galaxy said it had identified roughly 1,779 BTC stolen from 190 victims and more than 8,600 addresses.",
-    "source": "The Block",
-    "time": "9/7/2026, 9:30:32 AM",
-    "link": "https://www.theblock.co/news/defi/2026-09-07-coldcard-exploiter-moves-wave-3-413661",
-    "category": "Markets"
-  },
-  {
-    "title": "South Korea’s Hanwha develops tokenized securities platform on Avalanche as local regulation takes shape: report",
-    "summary": "South Korea passed amendments that integrate tokenized securities into the existing financial system, coming into effect next February.",
-    "source": "The Block",
-    "time": "9/7/2026, 8:24:46 AM",
-    "link": "https://www.theblock.co/news/business/2026-09-07-south-korea-hanwha-tokenized-securities-platform-avalanche-413652",
-    "category": "Markets"
-  },
-  {
-    "title": "Harmony to fully sunset Layer 1, proposes token migration to Ethereum for AI video initiative",
-    "summary": "Harmony said it would help validators transition to its proposed new initiative, a 'remix economy' with AI video creators.",
-    "source": "The Block",
-    "time": "9/7/2026, 4:28:47 AM",
-    "link": "https://www.theblock.co/news/web3/2026-09-06-harmony-sunset-network-413635",
-    "category": "Markets"
-  },
-  {
-    "title": "Spot bitcoin ETFs pull in $987 million last week as institutional demand recovers",
-    "summary": "Spot bitcoin ETFs drew in $3.52 billion in net inflows in August, their largest monthly positive flows since September 2025.",
-    "source": "The Block",
-    "time": "9/7/2026, 4:15:55 AM",
-    "link": "https://www.theblock.co/news/markets/2026-09-06-bitcoin-etfs-987-million-weekly-inflow-413639",
     "category": "Markets"
   }
 ]
