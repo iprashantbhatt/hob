@@ -1,5 +1,45 @@
 [
   {
+    "title": "Robinhood’s CEO Vlad Tenev fires back at AMC CEO in escalating fight over stock tokens",
+    "summary": "Tenev told CNBC's \"Squawk Box\" on Wednesday that public companies shouldn't have veto power over third-party securities that reference their shares.",
+    "source": "CoinDesk",
+    "time": "9/9/2026, 6:11:07 PM",
+    "link": "https://www.coindesk.com/markets/2026/09/09/robinhood-s-ceo-vlad-tenev-defends-stock-tokens-in-escalating-fight-with-amc-ceo",
+    "category": "Markets"
+  },
+  {
+    "title": "U.S. Treasury sanctions another widespread cyber-scam hub, Xinbi Guarantee ",
+    "summary": "Chinese-language platform Xinbi is accused of operating on crypto transactions as it offered services to other criminal networks.",
+    "source": "CoinDesk",
+    "time": "9/9/2026, 6:05:11 PM",
+    "link": "https://www.coindesk.com/policy/2026/09/09/u-s-treasury-sanctions-another-widespread-cyber-scam-hub-xinbi-guarantee",
+    "category": "Markets"
+  },
+  {
+    "title": "Tether pushes into private credit with $400 million fund with Fasanara",
+    "summary": "The USDT issuer will help source lending opportunities and provide stablecoin payment infrastructure for Fasanara's private credit network.",
+    "source": "CoinDesk",
+    "time": "9/9/2026, 5:51:25 PM",
+    "link": "https://www.coindesk.com/business/2026/09/09/tether-pushes-into-private-credit-with-usd400-million-fund-with-fasanara",
+    "category": "Markets"
+  },
+  {
+    "title": "Bitcoin and Ethereum race quantum clock as U.S. backs $300 million hardware push",
+    "summary": "The threat is not here yet, but fault-tolerant machines and crypto’s migration plans are starting to converge on the same 2029 window.",
+    "source": "CoinDesk",
+    "time": "9/9/2026, 5:30:00 PM",
+    "link": "https://www.coindesk.com/tech/2026/09/09/bitcoin-and-ethereum-race-quantum-clock-as-u-s-backs-usd300-million-hardware-push",
+    "category": "Markets"
+  },
+  {
+    "title": "Consensys to split MetaMask into its own firm while staying silent on IPO",
+    "summary": "The existing company, Consensys Software Inc., will rebrand as MetaMask under Ethereum co-founder Joe Lubin as chairman and CEO.",
+    "source": "CoinDesk",
+    "time": "9/9/2026, 5:24:01 PM",
+    "link": "https://www.coindesk.com/business/2026/09/09/consensys-to-split-metamask-into-its-own-firm-while-staying-silent-on-ipo",
+    "category": "Markets"
+  },
+  {
     "title": "Crypto Long & Short:  Inside the 300-to-1 onchain gap between the dollar and euro",
     "summary": "Ryan Connor of RockawayX writes that the dollar leads the euro about 3 to 1 across the offchain economy and more than 300 to 1 onchain. Euro-pegged stablecoins total €711 million, under 1% of supply. He traces the gap to path dependency and missing euro DeFi infrastructure, and argues MiCA-regulated issuance and euro vault rails are changing it.",
     "source": "CoinDesk",
@@ -24,107 +64,123 @@
     "category": "Markets"
   },
   {
-    "title": "Hunter Biden's new LAPTOP token lost 98% of its value in under an hour after $1.6 billion debut",
-    "summary": "LAPTOP swung from $190 to under $4 within minutes of opening on Base. Onchain records show tokens had been distributed to market makers for a week before trading began.",
-    "source": "CoinDesk",
-    "time": "9/9/2026, 3:57:57 PM",
-    "link": "https://www.coindesk.com/business/2026/09/09/hunter-biden-s-laptop-memecoin-debuts-at-usd1-6-billion-market-cap",
-    "category": "Markets"
-  },
-  {
-    "title": " KYC data is an irresistible honeypot for hackers, and we must change how it is collected",
-    "summary": "Privacy-preserving identity verification systems could allow individuals to prove only what a service needs to know while keeping the underlying information under their control, writes Coin Center’s Laz Pieper.",
-    "source": "CoinDesk",
-    "time": "9/9/2026, 3:02:49 PM",
-    "link": "https://www.coindesk.com/opinion/2026/09/09/kyc-data-is-an-irresistible-honeypot-for-hackers-and-we-must-change-how-it-is-collected",
-    "category": "Markets"
-  },
-  {
-    "title": "Algorand names former Chainlink executive William Herkelrath as CEO",
-    "summary": "The former Chainlink and Curv executive will lead the blockchain organization’s push into institutional finance and quantum-resistant security.",
-    "source": "CoinDesk",
-    "time": "9/9/2026, 3:00:00 PM",
-    "link": "https://www.coindesk.com/business/2026/09/09/algorand-names-former-chainlink-executive-william-herkelrath-as-ceo",
-    "category": "Markets"
-  },
-  {
-    "title": "Germany moves to tax bitcoin like stocks as new draft bill targets tax-free gains",
-    "summary": "Existing holdings would keep the current tax treatment, which can allow tax-free sales after a 12-month holding period.",
-    "source": "CoinDesk",
-    "time": "9/9/2026, 2:13:59 PM",
-    "link": "https://www.coindesk.com/business/2026/09/09/germany-moves-to-tax-bitcoin-like-stocks-as-new-draft-bill-targets-tax-free-gains",
-    "category": "Markets"
-  },
-  {
-    "title": "Crypto lobbying orgs ask court to suspend Illinois tax as legal case continues",
-    "summary": "The motion for a preliminary injunction comes a few weeks after the Crypto Council for Innovation and Blockchain Association sued to block the law.",
-    "source": "CoinDesk",
-    "time": "9/9/2026, 2:00:00 PM",
-    "link": "https://www.coindesk.com/policy/2026/09/09/crypto-lobbying-orgs-ask-court-to-suspend-illinois-tax-as-legal-case-continues",
-    "category": "Markets"
-  },
-  {
-    "title": "Tether, Fasanara launch $400M private credit fund targeting $3B  ",
-    "summary": "The evergreen fund will use USDT infrastructure to support asset-backed lending through fintech platforms in more than 60 countries.",
+    "title": "Here’s what happened in crypto today",
+    "summary": "Need to know what happened in crypto today? Here is the latest news on daily trends and events impacting Bitcoin price, blockchain, DeFi, Web3 and crypto regulation.",
     "source": "CoinTelegraph",
-    "time": "9/9/2026, 5:21:44 PM",
-    "link": "https://cointelegraph.com/news/tether-fasanara-launch-400m-private-credit-fund-targeting-3b?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "time": "9/9/2026, 11:30:00 PM",
+    "link": "https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
     "category": "Markets"
   },
   {
-    "title": "German finance ministry proposes 25% crypto tax starting 2028: Report",
-    "summary": "The German Ministry of Finance is reportedly seeking to impose a 25% tax on cryptocurrencies, departing from current laws that make crypto gains tax-free after one year of holding.",
+    "title": "DoubleZero adds Kalshi election market data ahead of US midterms ",
+    "summary": "The expansion gives institutional and automated traders real-time access to Kalshi’s political markets as election betting activity continues to grow.",
     "source": "CoinTelegraph",
-    "time": "9/9/2026, 3:49:55 PM",
-    "link": "https://cointelegraph.com/news/german-finance-ministry-25-crypto-tax-2028?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "time": "9/9/2026, 10:08:09 PM",
+    "link": "https://cointelegraph.com/news/doublezero-adds-kalshi-election-market-data-ahead-of-us-midterms?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
     "category": "Markets"
   },
   {
-    "title": "10 of the greatest unsolved crypto mysteries",
-    "summary": "From the whereabouts of the CryptoQueen to a mysterious death involving a DeFi builder paranoid about the “pedo elite,” here are 10 crypto mysteries that still have no good answer.",
+    "title": "Consensys to split into MetaMask and institutional blockchain company",
+    "summary": "The restructuring will separate MetaMask’s consumer business from Consensys’ Ethereum protocols and institutional blockchain infrastructure operations.",
     "source": "CoinTelegraph",
-    "time": "9/9/2026, 3:30:00 PM",
-    "link": "https://cointelegraph.com/magazine/10-of-the-greatest-unsolved-crypto-mysteries?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "time": "9/9/2026, 8:47:32 PM",
+    "link": "https://cointelegraph.com/news/consensys-to-split-into-metamask-and-institutional-blockchain-company?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
     "category": "Markets"
   },
   {
-    "title": "BitMart misses roadmap deadline, appoints financial adviser",
-    "summary": "BitMart provided no asset figures or withdrawal timetable and will launch a feedback portal within five working days during a financial adviser review.",
+    "title": "TRM Labs doubles valuation to $2B in Series C expansion ",
+    "summary": "The blockchain intelligence firm said its annual recurring revenue has quadrupled over the past three years as it expands its AI-powered investigations business.",
     "source": "CoinTelegraph",
-    "time": "9/9/2026, 3:04:28 PM",
-    "link": "https://cointelegraph.com/news/bitmart-misses-roadmap-deadline-appoints-financial-adviser?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "time": "9/9/2026, 7:30:06 PM",
+    "link": "https://cointelegraph.com/news/trm-labs-doubles-valuation-to-2b-in-series-c-expansion?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "category": "Markets"
+  },
+  {
+    "title": "U.S. Bank tests proprietary stablecoin in cross-border Stellar transaction",
+    "summary": "The pilot moved USBDC between the bank’s North American and European entities on the public Stellar blockchain.",
+    "source": "CoinTelegraph",
+    "time": "9/9/2026, 6:37:08 PM",
+    "link": "https://cointelegraph.com/news/us-bank-launches-usbdc-stablecoin-with-live-cross-border-payment?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "category": "Markets"
+  },
+  {
+    "title": "Bitcoin fails to reclaim $80K as Bessent fuels yen strength around 153 per dollar",
+    "summary": "Bitcoin trended lower with US stocks on Iran escalation while US Treasury Secretary Scott Bessent contributed to fears of a yen carry-trade unwind.",
+    "source": "CoinTelegraph",
+    "time": "9/9/2026, 6:28:19 PM",
+    "link": "https://cointelegraph.com/markets/bitcoin-fails-to-reclaim-80k-as-bessent-fuels-yen-strength-around-153-per-dollar?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
     "category": "Markets"
   },
   {
     "title": "Hunter Biden’s laptop controversy gets a memecoin afterlife",
     "summary": "The project’s disclosures say LAPTOP has no utility, lock founder tokens for six months and reserve 2% for wallets that lost money on TRUMP.",
     "source": "CoinTelegraph",
-    "time": "9/9/2026, 2:38:00 PM",
+    "time": "9/9/2026, 5:58:39 PM",
     "link": "https://cointelegraph.com/news/hunter-bidens-laptop-memecoin-afterlife?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
     "category": "Markets"
   },
   {
-    "title": "Italy’s central bank orders sanctions screening for crypto transfers",
-    "summary": "Banca d’Italia ordered crypto service providers to implement internal controls to screen for crypto transfers tied to sanctioned entities.",
+    "title": "Trade groups seek to block Illinois crypto tax before January effective date",
+    "summary": "Following on their earlier lawsuit, CCI and the Blockchain Association seek to block Illinois’ 0.2% crypto tax, arguing it is unconstitutional and would impose costly compliance burdens.",
     "source": "CoinTelegraph",
-    "time": "9/9/2026, 2:20:33 PM",
-    "link": "https://cointelegraph.com/news/italys-central-bank-orders-sanctions-screening-for-crypto-transfers?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "time": "9/9/2026, 5:57:07 PM",
+    "link": "https://cointelegraph.com/news/trade-groups-seek-block-illinois-crypto-tax-before-january-effective-date?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
     "category": "Markets"
   },
   {
-    "title": "What could happen if the CLARITY Act fails to pass in 2026",
-    "summary": "The US Senate has a limited window to pass a crypto market structure bill, but if it were to fail, the legislation could be completely remade or scrapped under Democrats in 2027.",
-    "source": "CoinTelegraph",
-    "time": "9/9/2026, 1:54:41 PM",
-    "link": "https://cointelegraph.com/news/clarity-act-fails-passage-next-session-congress?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "title": "AI Is Solving Math's Best Problems Faster Than They Can Be Replaced, Terence Tao Warns",
+    "summary": "The Fields medalist points to a real race between OpenAI and Anthropic as proof: AI can now flatten a hard problem the moment someone starts working on it.",
+    "source": "Decrypt",
+    "time": "9/9/2026, 10:31:29 PM",
+    "link": "https://decrypt.co/377818/ai-math-best-problems-terence-tao",
     "category": "Markets"
   },
   {
-    "title": "Metaplanet’s executive stock pool sparks shareholder backlash as CEO addresses MMXX ties",
-    "summary": "Metaplanet’s executive stock pool continues to draw backlash over dilution concerns, as investors urged the company to freeze the exercise rights tied to 273 million shares.",
-    "source": "CoinTelegraph",
-    "time": "9/9/2026, 1:15:23 PM",
-    "link": "https://cointelegraph.com/news/metaplanets-executive-stock-pool-backlash-ceo-mmxx-ties?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "title": "Crypto, Banks Take Clarity Act Lobbying Fight to Senators' Home States",
+    "summary": "Crypto advocates and community bankers are targeting lawmakers in their home states as the Senate prepares for a September 15 procedural vote.",
+    "source": "Decrypt",
+    "time": "9/9/2026, 8:56:58 PM",
+    "link": "https://decrypt.co/377810/crypto-banks-clarity-act-lobbying-senators",
+    "category": "Markets"
+  },
+  {
+    "title": "Apple Unveils Redesigned Siri AI and A20 Pro Chip as CEO John Ternus Makes Debut",
+    "summary": "The company's first fall keynote under new leadership paired a Gemini-powered Siri overhaul with Apple's first 2-nanometer chip, plus a $1,999 foldable iPhone that won't ship until October.",
+    "source": "Decrypt",
+    "time": "9/9/2026, 7:50:14 PM",
+    "link": "https://decrypt.co/377807/apple-redesigned-siri-ai-a20-pro-chip",
+    "category": "Markets"
+  },
+  {
+    "title": "Secret Service Freezes $52.8 Million in Crypto Tied to Telegram Bazaar Behind Global Scams",
+    "summary": "Blockchain sleuths at Elliptic traced the money, Treasury sanctioned the marketplace, and Xinbi—which ran $24 billion through a Telegram scam bazaar—called the freeze unfair.",
+    "source": "Decrypt",
+    "time": "9/9/2026, 7:16:08 PM",
+    "link": "https://decrypt.co/377804/secret-service-freezes-crypto-telegram-bazaar-xinbi",
+    "category": "Markets"
+  },
+  {
+    "title": "While Bitcoin Devs Debate Next Moves, IonQ Unveils Superion 256 Quantum Computer",
+    "summary": "The company has built its first chips and begun testing prototypes as it seeks to manufacture quantum computers in larger quantities.",
+    "source": "Decrypt",
+    "time": "9/9/2026, 6:46:05 PM",
+    "link": "https://decrypt.co/377737/bitcoin-debate-ionq-quantum-computer",
+    "category": "Markets"
+  },
+  {
+    "title": "What Is LAPTOP? Hunter Biden's Meme Coin Targeting TRUMP Holders",
+    "summary": "The LAPTOP token launched on Base in September 2026, peaked two minutes later, and shed almost all of its value the same day.",
+    "source": "Decrypt",
+    "time": "9/9/2026, 6:40:50 PM",
+    "link": "https://decrypt.co/resources/what-is-laptop-hunter-bidens-meme-coin-targeting-trump-holders",
+    "category": "Markets"
+  },
+  {
+    "title": "Mexican Musician and Family Killed Over Bitcoin Cold Wallet Believed to Hold Millions",
+    "summary": "Mexican prosecutors allege suspects targeted Camilo Séptimo keyboardist Jonathan Meléndez and his family while searching for a cold wallet they believed contained millions in Bitcoin.",
+    "source": "Decrypt",
+    "time": "9/9/2026, 6:16:04 PM",
+    "link": "https://decrypt.co/377795/mexican-family-killed-bitcoin-cold-wallet",
     "category": "Markets"
   },
   {
@@ -136,59 +192,43 @@
     "category": "Markets"
   },
   {
-    "title": "Prediction Markets Abandon Cheap Oil as Brent Passes $100",
-    "summary": "Myriad's $120 side overtook $55 at the start of September, while Polymarket puts WTI reaching $100 this month at 59%.",
-    "source": "Decrypt",
-    "time": "9/9/2026, 5:15:01 PM",
-    "link": "https://decrypt.co/377766/prediction-markets-abandon-cheap-oil-as-brent-passes-100",
+    "title": "DoubleZero adds Kalshi’s election markets ahead of November midterms",
+    "summary": "Kalshi's elections and politics markets went live on the market data delivery platform DoubleZero Edge on Wednesday.",
+    "source": "The Block",
+    "time": "9/9/2026, 8:17:58 PM",
+    "link": "https://www.theblock.co/news/regulation/2026-09-09-doublezero-adds-kalshis-election-markets-ahead-november-midterms-414075",
     "category": "Markets"
   },
   {
-    "title": "Consensys Is Splitting in Two as MetaMask Goes Its Own Way",
-    "summary": "Consensys Software Inc. will become MetaMask, while a newly formed Consensys will take over the firm's Ethereum protocols and institutional blockchain infrastructure business.",
-    "source": "Decrypt",
-    "time": "9/9/2026, 5:07:24 PM",
-    "link": "https://decrypt.co/377768/consensys-split-metamask-new-institutional-crypto-company",
+    "title": "Solana treasury firm SkyAI faces board challenge from would-be acquirer Forward Industries, shareholder group",
+    "summary": "SkyAI’s proposed equity plan would authorize 5.145 million shares for stock-based compensation, representing roughly 7.2% additional dilution.",
+    "source": "The Block",
+    "time": "9/9/2026, 7:56:26 PM",
+    "link": "https://www.theblock.co/news/business/2026-09-09-solana-treasury-firm-skyai-board-challenge-would-be-acquirer-forward-industries-shareholder-group-414061",
     "category": "Markets"
   },
   {
-    "title": "German Finance Ministry Drafts 25% Tax on Crypto Gains From 2027",
-    "summary": "Anything bought before 2027 keeps the twelve-month exemption, so the change lands only on Germany's future crypto buyers.",
-    "source": "Decrypt",
-    "time": "9/9/2026, 4:37:18 PM",
-    "link": "https://decrypt.co/377764/german-finance-ministry-drafts-25-tax-on-crypto-gains-from-2027",
+    "title": "Bitcoin miners are missing the crypto rally as exchanges, stablecoins surge",
+    "summary": "Among tracked companies, only one bitcoin mining company has outperformed the cryptocurrency: Canaan (ticker CAN).",
+    "source": "The Block",
+    "time": "9/9/2026, 7:36:02 PM",
+    "link": "https://www.theblock.co/news/markets/2026-09-09-bitcoin-miners-are-missing-the-crypto-rally-as-exchanges-stablecoins-surge-413848",
     "category": "Markets"
   },
   {
-    "title": "Morning Minute: Venice’s VVV Token Soars After OpenAI Dispute",
-    "summary": "Concerns over frontier AI labs stealing user data has driven demand for private inference (or at least tokens tied to private inference).",
-    "source": "Decrypt",
-    "time": "9/9/2026, 3:28:52 PM",
-    "link": "https://decrypt.co/377761/morning-minute-venices-vvv-token-soars-after-openai-dispute",
+    "title": "Hyperliquid Policy Center backs CFTC in fight over perpetual futures, asks court to drop CME’s case",
+    "summary": "The Hyperliquid Policy Center accused CME Group of stifling innovation and urged a court to dismiss the exchange’s lawsuit against the CFTC.",
+    "source": "The Block",
+    "time": "9/9/2026, 6:17:59 PM",
+    "link": "https://www.theblock.co/news/regulation/2026-09-09-hyperliquid-policy-center-backs-cftc-fight-perpetual-futures-asks-court-drop-cme-case-414046",
     "category": "Markets"
   },
   {
-    "title": "UK Crime Agency Warns of 'Innovative Use' of Crypto by Launderers",
-    "summary": "The agency ranks cryptoassets third among nine economic crime priorities, and says it wants to generate its own targets.",
-    "source": "Decrypt",
-    "time": "9/9/2026, 1:43:53 PM",
-    "link": "https://decrypt.co/377757/uk-crime-agency-warns-of-innovative-use-of-crypto-by-launderers",
-    "category": "Markets"
-  },
-  {
-    "title": "Mexico Seizes 300 Crypto Mining Rigs Wired Into a Hydroelectric Dam",
-    "summary": "Forensic accountants are tracing who paid for the mining hardware, and money laundering has not been ruled out.",
-    "source": "Decrypt",
-    "time": "9/9/2026, 11:28:29 AM",
-    "link": "https://decrypt.co/377748/mexico-seizes-300-crypto-mining-rigs-wired-into-a-hydroelectric-dam",
-    "category": "Markets"
-  },
-  {
-    "title": "Jack Dorsey's Block Applies for Bank Charter to Custody Bitcoin",
-    "summary": "Builders Bank would consolidate custody work Block now runs under more than 50 state money transmitter licenses.",
-    "source": "Decrypt",
-    "time": "9/9/2026, 10:26:08 AM",
-    "link": "https://decrypt.co/377746/jack-dorseys-block-applies-for-bank-charter-to-custody-bitcoin",
+    "title": "Hunter Biden’s LAPTOP airdrops briefly worth over $1 million each before 99% crash",
+    "summary": "Substack subscribers were reportedly able to claim 4,276 LAPTOP tokens each, with some quickly selling their allocations.",
+    "source": "The Block",
+    "time": "9/9/2026, 6:05:45 PM",
+    "link": "https://www.theblock.co/news/markets/2026-09-09-hunter-biden-laptop-airdrops-briefly-worth-over-1-million-each-before-99-crash-414034",
     "category": "Markets"
   },
   {
@@ -213,46 +253,6 @@
     "source": "The Block",
     "time": "9/9/2026, 4:49:03 PM",
     "link": "https://www.theblock.co/news/ecosystems/2026-09-09-ink-foundation-gsr-crypto-charter-foundation-token-launch-costs-414023",
-    "category": "Markets"
-  },
-  {
-    "title": "Tether, Fasanara launch $400 million fund for stablecoin-enabled private credit",
-    "summary": "The firms seek up to $3 billion from institutional investors to deploy through Fasanara's global fintech lending network.",
-    "source": "The Block",
-    "time": "9/9/2026, 3:53:28 PM",
-    "link": "https://www.theblock.co/news/deals/2026-09-09-tether-fasanara-launch-400-million-fund-for-stablecoin-enabled-private-credit-414011",
-    "category": "Markets"
-  },
-  {
-    "title": "Renzo expands beyond restaking with basis trade product on Hyperliquid",
-    "summary": "Renzo Basis will first support BTC and HYPE and is designed to let users earn yield from funding rates through automated positions.",
-    "source": "The Block",
-    "time": "9/9/2026, 2:06:21 PM",
-    "link": "https://www.theblock.co/news/defi/2026-09-09-renzo-crypto-basis-trade-product-hyperliquid-413979",
-    "category": "Markets"
-  },
-  {
-    "title": "India seeks takedowns of 15 crypto platforms over AML compliance",
-    "summary": "India's FIU issued non-compliance notices to 15 crypto platforms and sought takedowns of their apps and URLs.",
-    "source": "The Block",
-    "time": "9/9/2026, 1:12:43 PM",
-    "link": "https://www.theblock.co/news/regulation/2026-09-09-india-seeks-takedowns-of-15-crypto-platforms-over-aml-compliance-413975",
-    "category": "Markets"
-  },
-  {
-    "title": "First staked ETF tied to Tron hits the US markets on Wednesday",
-    "summary": "The first staked ETF tied to Tron is set to hit the market Wednesday, giving investors a new way to gain exposure to TRX.",
-    "source": "The Block",
-    "time": "9/9/2026, 6:01:03 AM",
-    "link": "https://www.theblock.co/news/regulation/2026-09-09-first-staked-etf-tied-to-tron-hits-the-us-markets-wednesday-413935",
-    "category": "Markets"
-  },
-  {
-    "title": "Hunter Biden details LAPTOP memecoin’s airdrop and burn-or-charity rules ahead of launch",
-    "summary": "About 30% of the supply is tied to 30 public real-world events that either burn or donate the tokens depending on the results.",
-    "source": "The Block",
-    "time": "9/9/2026, 4:34:58 AM",
-    "link": "https://www.theblock.co/news/defi/2026-09-08-hunter-biden-details-laptop-airdrop-413952",
     "category": "Markets"
   }
 ]
